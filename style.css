@@ -705,8 +705,10 @@ justify-content:center!important;}
 header article .btn_3:after{
     content:"\f0f4";
 }
-
+@media (max-width:760px){
+    header article .title{  width:100%;}}
 @media (max-width:920px){
+ 
     header article{
         flex: 0 0 100%;
         padding:6rem 0rem;
