@@ -216,9 +216,7 @@ li{
 }
 
 .btn_4{
-    background-color:transparent;
-    border:1px solid var(--white);
-    color:var(--white);
+    color: #f97008;
 }
 
 .btn_4:hover{
