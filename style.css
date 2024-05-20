@@ -146,7 +146,9 @@ li{
 .padding_4x{
     padding:4rem;
 }
-
+.division_1 .padding_4x {
+    padding: 4rem 15rem!important;
+}
 .big{
     font-size:3.5em;
 }
